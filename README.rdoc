@@ -10,3 +10,4 @@ description: text
 - description must be present
 - description must be between 20 chars and 500 characters
 - chef_id must be present* 
+
